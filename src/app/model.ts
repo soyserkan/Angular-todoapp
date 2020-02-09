@@ -8,7 +8,7 @@ export class Model {
             new TodoItem('Spor', true),
             new TodoItem('Kahvaltı', false),
             new TodoItem('Kitap Okumak', false),
-            new TodoItem('Dişleri Fırçalamak', false),
+            new TodoItem('Yüzmek', false),
         ];
     }
 }
